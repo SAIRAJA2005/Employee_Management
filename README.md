@@ -81,12 +81,5 @@ mvn spring-boot:run
 
 ---
 
-## 📸 Screenshots
-
-![Employee List UI](screenshots/employee_list.png)
-![Add Employee Form](screenshots/add_employee.png)
-
----
-
 ## 📜 License
 This project is licensed under the MIT License.
